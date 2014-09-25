@@ -293,7 +293,7 @@ Mink API and steps to do **real** actions in a **real** browser.
 
 All you need to do is install Selenium:
 
-1. Download latest Selenium jar from the: http://seleniumhq.org/download/
+1. Download latest Selenium jar at http://seleniumhq.org/download/
 2. Run Selenium2 jar before your test suites (you can start this proxy during system startup):
 
    .. code-block:: bash
